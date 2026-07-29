@@ -1,0 +1,17 @@
+[
+  {
+    "id": "user1234567890",
+    "name": "کاربر نمونه",
+    "tag": "sample-user",
+    "token": "a1b2c3d4e5f6...",
+    "username": "sample",
+    "key": "abc123",
+    "enabled": true,
+    "expiry": "2025-12-31",
+    "quotaBytes": 10737418240,
+    "dailyQuotaBytes": 1073741824,
+    "speedLimitKBps": 1024,
+    "connLimit": 3,
+    "notes": "کاربر نمونه"
+  }
+]
