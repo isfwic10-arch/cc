@@ -1,43 +1,63 @@
 {
+  "multiUser": true,
   "users": [
     {
-      "id": "7479f66ff05740d080319385a2c725ab",
-      "name": "user_6e71e0",
-      "tag": "user_6e71e0",
-      "token": "91bbec02d0644ca8bb0907321e4a4f62",
-      "username": "user_6e71e0",
-      "key": "88aab599f6cc",
+      "id": "d2a6b2f6979c45478738b82043ce38a6",
+      "name": "user_7793ed",
+      "tag": "user_7793ed",
+      "token": "e1d4712957b04f184582206f2ee85e3c",
+      "username": "user_7793ed",
+      "key": "2d6bb11c9a06",
+      "cleanIp": "",
+      "proxyIp": "",
+      "ports": "",
       "enabled": true,
       "expiry": "",
       "quotaBytes": 0,
       "dailyQuotaBytes": 0,
+      "limitDailyReq": 0,
+      "notes": "default auto user",
+      "fp": "",
       "speedLimitKBps": 1024,
-      "connLimit": 3
-    },
-    {
-      "id": "user9876543210",
-      "name": "کاربر نمونه ۲",
-      "tag": "sample-user-2",
-      "token": "f6e5d4c3b2a19876",
-      "username": "sample2",
-      "key": "xyz789",
-      "enabled": true,
-      "expiry": "2027-08-15",
-      "quotaBytes": 5368709120,
-      "dailyQuotaBytes": 536870912,
-      "speedLimitKBps": 2048,
-      "connLimit": 5,
-      "notes": "کاربر نمونه دوم با مصرف متوسط",
-      "blockPorn": 1,
-      "blockAds": 0
+      "connLimit": 3,
+      "maxConfigs": null,
+      "userPorts": null,
+      "userNodes": null,
+      "userMode": null,
+      "usernat64": null,
+      "userPanelUrl": null,
+      "ipLimit": 0,
+      "activeIps": "{}",
+      "blockPorn": 0,
+      "blockAds": 0,
+      "fragLen": "",
+      "fragInt": "",
+      "lifetimeUsedGb": 15,
+      "userProxyIata": "",
+      "userSocks5": "",
+      "userProxyIp": "",
+      "autoResetVolDays": 0,
+      "autoResetReqDays": 0,
+      "lastResetVolTime": 1785367468729,
+      "lastResetReqTime": 1785367468729,
+      "autoRotateIp": 0,
+      "rotateTime": 0,
+      "ipOperator": "all",
+      "ipCount": 20,
+      "lastRotateTime": 0,
+      "created": "2026-07-29T23:24:28.729Z"
     }
   ],
   "usage": {
-    "7479f66ff05740d080319385a2c725ab": 1073741824,
-    "user9876543210": 3758096384
+    "d2a6b2f6979c45478738b82043ce38a6": 16106127360
+  },
+  "usageIO": {
+    "d2a6b2f6979c45478738b82043ce38a6": {
+      "up": 8053063680,
+      "down": 8053063680
+    }
   },
   "usageDay": {
-    "7479f66ff05740d080319385a2c725ab": 107374182,
-    "user9876543210": 805306368
+    "d2a6b2f6979c45478738b82043ce38a6": 2147483648
   }
 }
