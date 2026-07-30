@@ -192,7 +192,6 @@
       "token": "734e1418efe64286a1a6f4d9c88282cf",
       "username": "user5",
       "key": "893005f84bfe",
-      "fp": "",
       "cleanIp": "",
       "proxyIp": "",
       "ports": "",
@@ -202,6 +201,7 @@
       "dailyQuotaBytes": 0,
       "limitDailyReq": 0,
       "notes": "",
+      "fp": "",
       "speedLimitKBps": 0,
       "connLimit": null,
       "maxConfigs": null,
@@ -222,22 +222,22 @@
       "userProxyIp": "",
       "autoResetVolDays": 0,
       "autoResetReqDays": 0,
-      "lastResetVolTime": 1785375901856,
-      "lastResetReqTime": 1785375901856,
+      "lastResetVolTime": 1785375930929,
+      "lastResetReqTime": 1785375930929,
       "autoRotateIp": 0,
       "rotateTime": 0,
       "ipOperator": "all",
       "ipCount": 20,
       "lastRotateTime": 0,
-      "created": "2026-07-30T01:45:01.856Z"
+      "created": "2026-07-30T01:45:30.929Z"
     }
   ],
   "usage": {
-    "45be735b8b554f66920af435271437c7": 0,
     "e1de8b0de9fd433599f572ffc5cbb2f5": 0,
-    "c4b23ace4a22421f906557b90fe1f81a": 0,
+    "d2a6b2f6979c45478738b82043ce38a6": 64424509440,
+    "45be735b8b554f66920af435271437c7": 0,
     "aa9ea220e8f6451c9ad168742afcfa79": 0,
-    "d2a6b2f6979c45478738b82043ce38a6": 32212254720
+    "c4b23ace4a22421f906557b90fe1f81a": 0
   },
   "usageIO": {},
   "usageDay": {}
