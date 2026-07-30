@@ -32,7 +32,7 @@
       "blockAds": 0,
       "fragLen": "",
       "fragInt": "",
-      "lifetimeUsedGb": 1440,
+      "lifetimeUsedGb": 2880,
       "userProxyIata": "",
       "userSocks5": "",
       "userProxyIp": "",
@@ -234,10 +234,10 @@
   ],
   "usage": {
     "c4b23ace4a22421f906557b90fe1f81a": 0,
-    "e1de8b0de9fd433599f572ffc5cbb2f5": 0,
     "45be735b8b554f66920af435271437c7": 0,
-    "aa9ea220e8f6451c9ad168742afcfa79": 0,
-    "d2a6b2f6979c45478738b82043ce38a6": 3092376453120
+    "d2a6b2f6979c45478738b82043ce38a6": 6184752906240,
+    "e1de8b0de9fd433599f572ffc5cbb2f5": 0,
+    "aa9ea220e8f6451c9ad168742afcfa79": 0
   },
   "usageIO": {},
   "usageDay": {}
