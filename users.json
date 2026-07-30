@@ -1,4 +1,5 @@
 {
+  "multiUser": true,
   "users": [
     {
       "id": "d2a6b2f6979c45478738b82043ce38a6",
@@ -7,25 +8,49 @@
       "token": "e1d4712957b04f184582206f2ee85e3c",
       "username": "user_7793ed",
       "key": "2d6bb11c9a06",
+      "cleanIp": "",
+      "proxyIp": "",
+      "ports": "",
       "enabled": true,
       "expiry": "",
       "quotaBytes": 0,
       "dailyQuotaBytes": 0,
+      "limitDailyReq": 0,
+      "notes": "default auto user",
+      "fp": "",
       "speedLimitKBps": 1024,
       "connLimit": 3,
-      "notes": "default auto user"
+      "maxConfigs": null,
+      "userPorts": null,
+      "userNodes": null,
+      "userMode": null,
+      "usernat64": null,
+      "userPanelUrl": null,
+      "ipLimit": 0,
+      "activeIps": "{}",
+      "blockPorn": 0,
+      "blockAds": 0,
+      "fragLen": "",
+      "fragInt": "",
+      "lifetimeUsedGb": 15,
+      "userProxyIata": "",
+      "userSocks5": "",
+      "userProxyIp": "",
+      "autoResetVolDays": 0,
+      "autoResetReqDays": 0,
+      "lastResetVolTime": 1785375029126,
+      "lastResetReqTime": 1785375029126,
+      "autoRotateIp": 0,
+      "rotateTime": 0,
+      "ipOperator": "all",
+      "ipCount": 20,
+      "lastRotateTime": 0,
+      "created": "2026-07-30T01:30:29.126Z"
     }
   ],
   "usage": {
     "d2a6b2f6979c45478738b82043ce38a6": 16106127360
   },
-  "usageIO": {
-    "d2a6b2f6979c45478738b82043ce38a6": {
-      "up": 8053063680,
-      "down": 8053063680
-    }
-  },
-  "usageDay": {
-    "d2a6b2f6979c45478738b82043ce38a6": 2147483648
-  }
+  "usageIO": {},
+  "usageDay": {}
 }
